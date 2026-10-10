@@ -122,7 +122,7 @@ Right-clicking the empty desktop natively queries `bspc` to check for active win
 
 ---
 
-![Desktop Showcase]<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/03a39e74-2b6f-49b2-b4bf-c2a8897fda14" />
+### !Desktop Showcase<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/03a39e74-2b6f-49b2-b4bf-c2a8897fda14" />
 
 ### Featuring:
 * **Music Player:** YouTube Music
