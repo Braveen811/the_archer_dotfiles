@@ -119,3 +119,19 @@ Right-clicking the empty desktop natively queries `bspc` to check for active win
 
 * `Super + x`: Politely asks an application to close (prompts to save work).
 * `Super + Shift + x`: Instantly force-kills a frozen node/application.
+
+---
+
+![Desktop Showcase]<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/03a39e74-2b6f-49b2-b4bf-c2a8897fda14" />
+
+### Featuring:
+* **Music Player:** YouTube Music
+* **Visualizer:** Cava
+* **Terminal Aesthetics:** `tty-clock`, `pipes.sh`, and `cbonsai`
+
+## ✌️ Wrapping Up
+Building a custom Arch Linux desktop is a journey. This repository is my personal take on making the Bspwm experience as seamless and crash-free as possible. 
+
+Whether you are using this exactly as it is, or just stealing my `Alt+Tab` and wallpaper scripts for your own rice—go for it. That's the beauty of Linux. 
+
+See you in the terminal!
