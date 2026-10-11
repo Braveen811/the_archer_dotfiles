@@ -125,9 +125,9 @@ Right-clicking the empty desktop natively queries `bspc` to check for active win
 
 ### ⏱️ System Tweaks
 **Fix the 90-second shutdown delay:**
-Edit `/etc/systemd/system.conf` as root and change the timeout line to:
-`DefaultTimeoutStopSec=10s`
-Then apply with: `sudo systemctl daemon-reload`
+* Edit `/etc/systemd/system.conf` as root and change the timeout line to:
+`DefaultTimeoutStopSec=10s`.
+* Then apply with: `sudo systemctl daemon-reload`
 
 ---
 
@@ -140,7 +140,7 @@ Then apply with: `sudo systemctl daemon-reload`
 ### Featuring:
 * **Music Player:** YouTube Music
 * **Visualizer:** Cava
-* **Terminal Aesthetics:** `tty-clock`, `pipes.sh`,`fastfetch` , and `cbonsai`
+* **Terminal Aesthetics:** `tty-clock`, `pipes.sh`,`fastfetch`, and `cbonsai`
 
 ## ✌️ Wrapping Up
 Building a custom Arch Linux desktop is a journey. This repository is my personal take on making the Bspwm experience as seamless and crash-free as possible. 
