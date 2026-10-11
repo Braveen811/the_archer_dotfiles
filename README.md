@@ -120,6 +120,15 @@ Right-clicking the empty desktop natively queries `bspc` to check for active win
 * `Super + x`: Politely asks an application to close (prompts to save work).
 * `Super + Shift + x`: Instantly force-kills a frozen node/application.
 
+### 5. Quick Cheatsheet
+- `Alt + f`: Instantly launches the system shortcut cheatsheet.
+
+### ⏱️ System Tweaks
+**Fix the 90-second shutdown delay:**
+Edit `/etc/systemd/system.conf` as root and change the timeout line to:
+`DefaultTimeoutStopSec=10s`
+Then apply with: `sudo systemctl daemon-reload`
+
 ---
 
 ### !Desktop Showcase 
